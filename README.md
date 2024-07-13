@@ -14,6 +14,8 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3oxdXR5aGhqMXVrcDRsanh6dmw2MjR5OXRiemx1aXV4amJ4enJxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NLHq5dOtUtOUEjOr7W/giphy.gif" width="600" height="300"/>
 </div>
 
+***
+
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kashmir, currently in the states.
 
@@ -68,6 +70,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
 </div>
+
+***
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asrarfarooq&theme=dark&border_radius=4.6&card_width=500)](https://git.io/streak-stats)
