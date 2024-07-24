@@ -17,7 +17,7 @@
 ***
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kashmir, currently in the states.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kashmir, currently in the living in Lawrence KS, United States.
 
 - :telescope: I'm working as a Computational Researcher at Stowers Institute, developing full-stack bioinformatics tools using the MERN stack.
 - :seedling: Exploring cutting-edge technologies in web development and bioinformatics.
