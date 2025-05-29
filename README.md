@@ -28,4 +28,3 @@ Trying to learn <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 ### Some Jokes:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
----
